@@ -1,0 +1,28 @@
+*.empty()
+*.size()
+
+vector -->
+			v.begin()
+			v.end()
+			v.back()
+			v.pop_back()
+			v.push_back(x)
+
+queue -->
+			v.push()
+			v.pop()
+			v.front()
+			v.back()
+
+stack --> 
+			st.top()
+			st.pop()
+
+deque -->
+			dq.push_front(x);
+			dq.push_back(x);
+			dq.pop_front();
+			dq.pop_back();
+			dq.front();
+			dq.back();
+
